@@ -1,0 +1,4 @@
+customer_segment,customers,pct_of_customers,revenue,pct_of_revenue,avg_lifetime_spend
+1 order,90307,97.0,12454422.91,94.5,137.91
+2 orders,2562,2.75,628326.08,4.77,245.25
+3+ orders,227,0.24,97028.96,0.74,427.44

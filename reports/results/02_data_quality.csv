@@ -1,0 +1,12 @@
+check_name,value
+orders in raw data,99441
+orders with no items,775
+delivered orders with no delivery date,8
+customer_id values (one per order),99441
+real customers (customer_unique_id),96096
+orders with more than one review,547
+products with no category,610
+products with untranslated category,13
+orders where payments differ from items + freight by > 1 BRL,249
+orders in analysis window (Jan 2017 - Aug 2018),99092
+delivered orders in analysis window,96203

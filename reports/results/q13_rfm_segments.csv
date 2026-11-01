@@ -1,0 +1,7 @@
+segment,customers,pct_of_customers,avg_days_since_last_order,avg_spend,revenue,pct_of_revenue
+"Lapsed, high value",20703,22.2,334.0,267.27,5533246.07,42.0
+"New, high value",14409,15.5,92.0,267.4,3852899.29,29.2
+"Lapsed, low value",33562,36.1,336.0,55.59,1865756.73,14.2
+"New, low value",21633,23.2,90.0,55.59,1202520.82,9.1
+"Repeat, lapsing",1593,1.7,319.0,252.13,401641.56,3.0
+"Loyal, recent",1196,1.3,89.0,270.66,323713.48,2.5

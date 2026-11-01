@@ -1,0 +1,5 @@
+installment_plan,payments,pct_of_card_payments,avg_payment_value
+1. paid in full,24710,33.2,95.63
+2. 2-3 installments,22178,29.8,133.63
+3. 4-6 installments,15734,21.2,180.49
+4. 7+ installments,11747,15.8,331.62

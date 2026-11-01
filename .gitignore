@@ -1,0 +1,16 @@
+# Raw data (download from Kaggle; see README)
+data/*.csv
+
+# Generated database
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
